@@ -1,0 +1,15 @@
+*Directories
+-Can search using section, person or number
+
+*Archive
+-Yung file na hindi belong sa section ni User pwedeng i-download by requesting kay admin.
+-Format (
+Title: _________
+Description | download |
+Date ---------------
+)
+
+*Post(uploading of file)
+-dynamic drop down sa sections
+-other side yung mga pinost ni user.
+-yung inupload pwedeng i-edit or delete.

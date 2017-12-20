@@ -1,0 +1,6 @@
+
+<br />
+<b>Notice</b>:  Undefined variable: con in <b>C:\xampp\htdocs\FSILogin\login\user_management\admin\download_file.php</b> on line <b>9</b><br />
+<br />
+<b>Warning</b>:  mysqli_query() expects parameter 1 to be mysqli, null given in <b>C:\xampp\htdocs\FSILogin\login\user_management\admin\download_file.php</b> on line <b>9</b><br />
+asd
